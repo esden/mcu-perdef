@@ -1,0 +1,10 @@
+This repository contains files that have structural information about the
+peripheral registers of microcontrollers.
+
+== Credits ==
+The initial files are courtesy of the "Eclipse Embedded Systems Register View"
+project that can be found here: https://sourceforge.net/projects/embsysregview/
+
+== License ==
+All files, scripts and tools in this repository are licensed under GPL V3 or
+newer. Please refer to COPYING for details.
